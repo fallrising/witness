@@ -1,0 +1,15 @@
+{
+  "name": "witness",
+  "version": "1.0.0",
+  "description": "This Node.js project uses Puppeteer to take screenshots of a given URL with configurable screen sizes. The screenshots are saved with filenames formatted as `yyyymmddhh.png` (year, month, day, hour).",
+  "main": "screen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.6.0"
+  }
+}
