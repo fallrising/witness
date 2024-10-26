@@ -133,3 +133,11 @@ dist
 *.jpg
 *.png
 *.svg
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+*.ipynb_checkpoints
+*.ipynb
