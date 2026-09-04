@@ -1,3 +1,13 @@
+> ## ⚠️ 此 repository 已退役（2026-09-04）
+>
+> Puppeteer 截圖工具,已停止維護
+>
+> 本 repository 保留為**唯讀歷史存放地**。
+>
+> 作品集索引:[`fallrising/newclear`](https://github.com/fallrising/newclear)
+
+---
+
 # Puppeteer Screenshot Automation
 
 This Node.js project uses Puppeteer to take screenshots of a given URL with configurable screen sizes. The screenshots are saved with filenames formatted as `yyyymmddhh.png` (year, month, day, hour).
